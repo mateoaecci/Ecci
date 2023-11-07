@@ -1,0 +1,42 @@
+JUEZ 
+El Juez toma asiento en el estrado y se dirige a los presentes en el tribunal. Les informa que están reunidos para llevar a cabo el juicio del caso número 1234. Luego, solicita a las partes involucradas que se presenten. La Fiscalía se levanta y se identifica como representante de la acusación. El Juez asiente y luego pregunta quién representa al acusado. El abogado defensor se levanta y se identifica como el representante del demandado. El Juez asiente nuevamente y pregunta quién representa al demandante. El abogado acusador se levanta y se identifica como el representante del demandante.
+
+Después de las presentaciones, el Juez indica que procederán con la presentación de pruebas y argumentos. Da la palabra a la Fiscalía para que presente sus pruebas y argumentos. Luego, agradece a la Fiscalía y le da la palabra al abogado defensor para que presente sus pruebas y argumentos. Posteriormente, agradece al abogado defensor y le da la palabra al abogado acusador para que presente sus pruebas y argumentos.
+
+Una vez que el abogado acusador ha terminado, el Juez indica que ahora escucharán al demandado y al demandante. Les pide que tomen la palabra y presenten sus testimonios y argumentos.
+
+Finalmente, el Juez agradece a ambas partes y anuncia que procederán a deliberar sobre el caso.
+ Basado en el conocimiento general sobre el funcionamiento de un tribunal de justicia.
+
+Abogado Defensor 
+
+El Abogado Defensor se opone a las pretensiones de la demanda presentada. Argumenta que la demanda carece de una base de datos que pueda afectar el interés de la familia. Además, sostiene que la recopilación de información realizada por la Procuraduría General de la Nación se lleva a cabo de acuerdo con las facultades que le otorga el artículo 277 de la Constitución y que su uso se realiza dentro de los límites establecidos.
+
+El Abogado Defensor también argumenta que la demanda no menciona ninguna acción u omisión por parte de la Procuraduría o sus servidores que afecte el orden jurídico. Afirma que la opinión abstracta de las personas que actúan como tutelantes no perturba el orden jurídico ni se les está desconociendo ninguno de sus derechos.
+
+En relación a la celebración de un matrimonio entre personas del mismo sexo, el Abogado Defensor sostiene que la figura del matrimonio requiere la distinción heterosexual, basándose en el artículo 113 del Código Civil y en la sentencia C-577 de 2011. Por lo tanto, considera que el matrimonio entre personas del mismo sexo es contrario al orden jurídico y al espíritu de la Constitución.
+
+El Abogado Defensor argumenta que la Procuraduría tiene funciones institucionales que cumplir en materia del niño, el adolescente, la mujer, el mayor adulto y la familia, y que estas funciones no pueden ser objeto de una acción de tutela. Además, señala que la intervención de la Procuraduría no pone en riesgo a las personas con orientación sexual diversa a la heterosexual.
+ Basado en el conocimiento general sobre el funcionamiento de un tribunal de justicia.
+
+Conclusiones
+La conclusión de la sentencia es que la Procuraduría General de la Nación no viola los derechos a la información ni a la intimidad de una persona cuando accede a datos personales sensibles derivados de datos personales no sensibles, que ha conocido por ser parte de un proceso judicial en ejercicio de sus funciones constitucionales y legales. Sin embargo, se establece que el tratamiento de estos datos debe ser restrictivo y no puede utilizarse para imponer una determinada interpretación de una sentencia o para restringir la autonomía e independencia de los funcionarios judiciales. Se concluye que estas acciones violan el principio de finalidad de los datos personales y afectan el derecho de acceso a la justicia de las personas involucradas. 
+ Sentencia T-424/17 de la Corte Constitucional de Colombia.
+
+Derechos vulnerados
+
+Los derechos vulnerados en este caso son:
+
+1. Derecho a la intimidad: La inclusión de datos personales sensibles en una base de datos por parte de la Procuraduría General de la Nación sin el consentimiento expreso de las personas afectadas vulnera su derecho a la intimidad.
+
+2. Derecho al habeas data: La recopilación y tratamiento de datos personales sensibles sin el consentimiento expreso de las personas afectadas vulnera su derecho al habeas data, que garantiza el control y protección de los datos personales.
+
+3. Derecho a la igualdad y no discriminación: La utilización de la información recopilada por la Procuraduría para imponer una determinada interpretación de una sentencia y sugerir el uso del poder de vigilancia y control en contra de personas que desatiendan dicha posición, afecta el derecho a la igualdad y no discriminación de las personas involucradas.
+
+4. Derecho de acceso a la justicia: Las acciones de la Procuraduría que afectan la autonomía e independencia de los funcionarios judiciales amenazan el derecho de acceso a la justicia de las personas involucradas.
+ Sentencia T-424/17 de la Corte Constitucional de Colombia.
+
+por que se realiza la demanda
+
+La demanda se realiza debido a que se considera que la Procuraduría General de la Nación está violando los derechos a la privacidad, protección de datos personales, no discriminación e igualdad, al recopilar información sobre las solicitudes de formación y matrimonio de parejas conformadas por personas del mismo sexo, sin el consentimiento expreso de las personas afectadas. Además, se argumenta que la inclusión de datos personales sensibles en una base de datos y el uso de esta información para imponer una determinada interpretación de una sentencia, vulnera los derechos a la intimidad, igualdad y no discriminación de las personas involucradas.
+ Sentencia T-424/17 de la Corte Constitucional de Colombia.
